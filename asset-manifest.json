@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/dev_portfolio/static/css/main.1585fdc9.css",
+    "main.js": "/dev_portfolio/static/js/main.e48d7c58.js",
+    "static/js/787.70f169b2.chunk.js": "/dev_portfolio/static/js/787.70f169b2.chunk.js",
+    "static/media/gericht__food.png": "/dev_portfolio/static/media/gericht__food.5c82f1eeef9f1f61d440.png",
+    "static/media/javaScript_tutorial.png": "/dev_portfolio/static/media/javaScript_tutorial.ddada3dfb7e19590d13a.png",
+    "static/media/gpt3__blog.png": "/dev_portfolio/static/media/gpt3__blog.fe024451a10ccbb56d01.png",
+    "static/media/snake_mania.png": "/dev_portfolio/static/media/snake_mania.6ffe381347384632bbfc.png",
+    "static/media/GR___Bank.png": "/dev_portfolio/static/media/GR___Bank.00a7ebd555f2765a591a.png",
+    "static/media/cpp_logo.png": "/dev_portfolio/static/media/cpp_logo.666af1b3598c92045b63.png",
+    "static/media/gyanimage.png": "/dev_portfolio/static/media/gyanimage.c0dd7118cb6bb2949e12.png",
+    "static/media/drum_beats.png": "/dev_portfolio/static/media/drum_beats.7c140d037a35ca5f84ac.png",
+    "static/media/CentraNo2-Bold.ttf": "/dev_portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/dev_portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/dev_portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/Dice_game.png": "/dev_portfolio/static/media/Dice_game.1a3ab6df1807296898f4.png",
+    "static/media/todolist.png": "/dev_portfolio/static/media/todolist.ae4a86839bf97c00a276.png",
+    "static/media/version.png": "/dev_portfolio/static/media/version.b651ae39d05a3f9f5ff5.png",
+    "static/media/webdesigningdev.png": "/dev_portfolio/static/media/webdesigningdev.c9cf5a048addfd34be69.png",
+    "static/media/contact-img.svg": "/dev_portfolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/frontdev.png": "/dev_portfolio/static/media/frontdev.8343d11af83e8c2e76b5.png",
+    "static/media/BACKENDdev.png": "/dev_portfolio/static/media/BACKENDdev.8b9f4de7178ed2535cdf.png",
+    "static/media/memory_game.png": "/dev_portfolio/static/media/memory_game.2fe18978e653ada8bef5.png",
+    "static/media/gyanlogo.png": "/dev_portfolio/static/media/gyanlogo.9c7fc4aed6321e2c688c.png",
+    "static/media/python.png": "/dev_portfolio/static/media/python.ce5a497fc954b4987fa6.png",
+    "static/media/revicons.eot": "/dev_portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/dev_portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/dev_portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/dev_portfolio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/dev_portfolio/index.html",
+    "static/media/threejs.svg": "/dev_portfolio/static/media/threejs.a02bc572667de670fbfb2173c0331d05.svg",
+    "static/media/nav-icon1.svg": "/dev_portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.1585fdc9.css.map": "/dev_portfolio/static/css/main.1585fdc9.css.map",
+    "main.e48d7c58.js.map": "/dev_portfolio/static/js/main.e48d7c58.js.map",
+    "787.70f169b2.chunk.js.map": "/dev_portfolio/static/js/787.70f169b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1585fdc9.css",
+    "static/js/main.e48d7c58.js"
+  ]
+}
