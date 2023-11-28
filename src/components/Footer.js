@@ -6,7 +6,7 @@ import navIcon4 from '../assets/img/github-mark-white.png';
 
 export const Footer = () => {
   return (
-    <footer className="footer">
+    <footer className="footer" id="footer">
       <Container>
         <Row className="align-items-center">
           <div />
